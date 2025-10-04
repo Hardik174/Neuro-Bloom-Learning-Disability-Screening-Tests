@@ -1,6 +1,6 @@
-**Team Name**
+#**Team VITeens**
 
-**Team Members:**
+#**Team Members:**
 1. Jineshwari Bagul(Team Leader)
 2. Avishkar Ghodke
 3. Anuj Gosavi
