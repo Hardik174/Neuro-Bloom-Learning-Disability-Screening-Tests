@@ -15,7 +15,7 @@ app.use(express.json());
 
 // --- Gemini API Setup ---
 // Initialize the Gemini API client
-const genAI = new GoogleGenerativeAI("AIzaSyBb1oPNBgqBcr9E0bllYzlj46zbkEESJ3o");
+const genAI = new GoogleGenerativeAI("GEMINI_API_KEY");
 // Choose your desired model. 'gemini-pro-vision' is for multimodal (text + image).
 // 'gemini-pro' is for text-only.
 const visionModel = genAI.getGenerativeModel({ model: 'gemini-2.0-flash' });
