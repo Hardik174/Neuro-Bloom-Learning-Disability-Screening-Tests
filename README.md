@@ -29,7 +29,7 @@ Each application is independently deployed and targets a specific learning disor
 ## 🧠 Dyslexia Screener
 
 **Live Demo**: [dyslexia.vercel.app](https://dsylexia-final.vercel.app/)  
-**Code**: [GitHub Repo](https://github.com/Avishkar32/Dsylexia_final)
+**Code**: [GitHub Repo](https://github.com/Hardik174/Neuro-Bloom-Learning-Disability-Screening-Tests/tree/main/Dsylexia_final-main)
 
 > **About Dyslexia**  
 > Dyslexia impacts reading accuracy, decoding, and spelling skills.  
@@ -39,7 +39,7 @@ Each application is independently deployed and targets a specific learning disor
 ## 🔢 Dyscalculia Screener
 
 **Live Demo**: [dyscalculia.vercel.app](https://dyscalculia-screening-game.vercel.app/)  
-**Code**: [GitHub Repo](https://github.com/Avishkar32/Dyscalculia-Screening-Game)
+**Code**: [GitHub Repo](https://github.com/Hardik174/Neuro-Bloom-Learning-Disability-Screening-Tests/tree/main/Dyscalculia-Screening-Game-main)
 
 > **About Dyscalculia**  
 > Dyscalculia affects number recognition, math fluency, and spatial awareness.  
@@ -50,7 +50,7 @@ Each application is independently deployed and targets a specific learning disor
 ## ✍️ Dysgraphia Screener
 
 **Live Demo**: [dysgraphia.vercel.app](https://dysgraphia-screening-test-eci3.vercel.app/)  
-**Code**: [Frontend](https://github.com/Avishkar32/Dysgraphia_Screening_Test) • [Backend](https://github.com/Avishkar32/DysgraphiaModel)
+**Code**: [Frontend](https://github.com/Hardik174/Neuro-Bloom-Learning-Disability-Screening-Tests/tree/main/Dysgraphia_Screening_Test-main)
 
 > **About Dysgraphia**  
 > Dysgraphia affects handwriting, fine motor control, and letter formation.  
@@ -61,7 +61,7 @@ Each application is independently deployed and targets a specific learning disor
 ## 🅰️ ADHD Screener
 
 **Live Demo**: [adhd.vercel.app](https://adhd-hosted-rwmp.vercel.app/)  
-**Code**: [GitHub Repo](https://github.com/Avishkar32/ADHD_Hosted)
+**Code**: [GitHub Repo](https://github.com/Hardik174/Neuro-Bloom-Learning-Disability-Screening-Tests/tree/main/ADHD_Hosted-main)
 
 > **About ADHD**  
 > ADHD (Attention Deficit Hyperactivity Disorder) affects focus, attention span, and impulse control.  
