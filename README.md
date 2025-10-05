@@ -6,6 +6,8 @@
 3. Anuj Gosavi
 4. Hardik Rokde
 
+**Gamified Assessments:** [Play Now!!](https://neuro-bloom-xc4e.vercel.app/)
+
 **Working Project Link:** [Project Working](https://therrato-main-platform.vercel.app/)
    
 # 🧠 Neuro Bloom Learning Disability Screening Suite
