@@ -101,12 +101,4 @@ This suite takes a **play-first, diagnose-later** approach by blending:
 
 ---
 
-## ✍️ Author
-
-**Avishkar Ghodke**  
-MERN & Next.js Developer | AI/ML + GenAI Enthusiast  
-[LinkedIn](https://www.linkedin.com/in/avishkar-ghodke-5556762b0/) • [Email](mailto:avishkar.ghodke23@vit.edu)
-
----
-
 > ⭐ Explore the live demos, check out the code, and feel free to reach out for feedback, collaboration, or discussion!
